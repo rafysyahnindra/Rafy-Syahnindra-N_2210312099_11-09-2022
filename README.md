@@ -8,7 +8,7 @@
 |3. |Link github | https://github.com/rafysyahnindra |
 |4.| Link Edabit | https://edabit.com/user/FsQ3u5mQSm99j5Rkx |
 |5|Exp Edabit   | 40  |
-|6| Link Codewars|    |
+|6| Link Codewars|  https://www.codewars.com/users/rafysyahnindra  |
 |7| Level Jyu Codewars||
 
 Isilah biodata diatas dan updatelah setiap minggunya,
