@@ -9,7 +9,7 @@
 |4.| Link Edabit | https://edabit.com/user/FsQ3u5mQSm99j5Rkx |
 |5|Exp Edabit   | 40  |
 |6| Link Codewars|  https://www.codewars.com/users/rafysyahnindra  |
-|7| Level Jyu Codewars||
+|7| Level Jyu Codewars| 8 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
